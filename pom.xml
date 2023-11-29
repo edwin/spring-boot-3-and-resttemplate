@@ -13,7 +13,7 @@
         <maven.compiler.target>17</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-        <version.spring.boot3>3.0.4</version.spring.boot3>
+        <version.spring.boot3>3.1.0</version.spring.boot3>
         <start-class>com.edw.Main</start-class>
     </properties>
 
